@@ -5,3 +5,4 @@
 2. Land is not to be bought from a town, only rented
 3. The outer border of a land chunk is off limits to building from 5 block off the ground, and must be bordered at ground level with the correct labeling wood
 4. All land must be level
+5. The tax of a chunk of land (the town tax) must be at least $40
