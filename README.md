@@ -3,6 +3,19 @@
 
 ### General
 1. Anything not written into this national law is instead left up to the town to decide
+2. The leader of the nation is always Mr. Lastname
+3. The nation is always to be called "Orphane"
+4. The towns in the nation are to be called such in order of creation:
+    A. New Jerome (This is the Capital)
+    B. New Wendel
+    C. New Falls
+    D. New Gooding
+    E. New Hagerman
+    F. New Ferry
+    G. New Home
+All towns created after these seven do not have fixed names. Towns aquired keep their name. Towns not created with the original intention of joining Orphane, but do join Orphane keep their name.
+    
+5. Secession of a town is considered an act of war
 
 
 ### Land Management
