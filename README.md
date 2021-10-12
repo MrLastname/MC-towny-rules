@@ -19,6 +19,7 @@ All towns created after these seven do not have fixed names. Towns aquired keep 
     
 5. Secession of a town is considered an act of war
 6. If a town is found to be in violation of the national law of Orphane, innitiate ENF-1
+7. The town of New Jerome is solely dedicated to running the nation, and is where Mr. Lastname's office and the Congress building will be
 
 
 ### Land Management
