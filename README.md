@@ -29,4 +29,15 @@ All towns created after these seven do not have fixed names. Towns aquired keep 
 
 ### Governing
 1. Mr. Lastname is the final say on anything, regardless
-2. The Congress shall consist of the mayor of each town of the nation, and either: 1 assistant, or 1 VIP
+2. The government of Orphane shall consist of three branches: The Congress (divided by two views), The Enforcing Branch, and Mr. Lastname
+3. The Congress shall consist of the mayor of each town of the nation, and 1 VIP from that mayor's town.
+
+
+### Congress
+1. The Congress may be divided into two viewpoints: <br />
+    The Pass Party - Desires to create more laws/regulations <br />
+    The Stay Party - Wishes to prevent more laws from being passed, in order to maintain current stability
+2. The mayor of the town is to best represent the intrests of the town (Classical Republicanism)
+3. The VIP of the town is to best represent the intrests of the people [in that town] (Natural Rights)
+4. The purpose of a congressional gathering is to propose and vote on the laws of Orphane. The descision Congress reaches will be passed to Mr. Lastname as an "extremely important suggestion"
+5. 
